@@ -1,0 +1,10 @@
+#!/usr/bin/env php
+<?php
+
+use DesignPatterns\Controller\Creational\Singleton\Singleton;
+
+set_time_limit(0);
+
+require_once __DIR__ . '/../vendor/autoload.php';
+
+

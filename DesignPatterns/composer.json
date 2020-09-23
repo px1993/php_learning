@@ -1,0 +1,16 @@
+{
+    "name": "px1993/design-patterns",
+    "description": "php design patterns demos",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "phpunit/phpunit": "^5.7",
+        "php-console/php-console": "^3.1"
+    },
+    "autoload": {
+        "psr-4":{
+            "DesignPatterns\\":"./"
+        }
+    
+    }
+}
